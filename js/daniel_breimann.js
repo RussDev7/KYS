@@ -1,4 +1,4 @@
-var text="DeathBear56 you're a loser. <br></br> Please kys." // YOUR TEXT
+var text="Daniel Breimann Is Gay." // YOUR TEXT
 var speed=50 // SPEED OF FADE
 var size=10 // FONT SIZE
 
