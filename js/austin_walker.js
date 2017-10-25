@@ -1,4 +1,4 @@
-var text="Austin Walker you're a fat whale. <br></br> Please kys." // YOUR TEXT
+var text="You're a fat whale. <br></br> Please kys." // YOUR TEXT
 var speed=50 // SPEED OF FADE
 var size=10 // FONT SIZE
 
